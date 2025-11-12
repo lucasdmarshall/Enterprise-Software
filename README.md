@@ -30,7 +30,5 @@ A clean, technology-agnostic repository scaffold for an ERP/POS software system.
 
 ## Next Steps
 
-- Initialize your chosen stack(s) (e.g., React/Next in `frontend`, Node/Express/Nest/FastAPI in `backend`).
-- Define your initial domain modules (e.g., `inventory`, `sales`) and wire them through an API.
-- Add database migrations and seeders to `database/`.
-- Document architectural decisions in `docs/architecture.md`.
+- Choisen stack - React Native with Electron ( Frontend) 
+- VB.NET with .NET Core ( Backend) 
